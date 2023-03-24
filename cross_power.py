@@ -1,6 +1,6 @@
 import numpy as np
 from scipy import signal
-import matplotlib.pyplot as plt
+
 
 # Создание двух звуковых сигналов
 fs = 1000  # частота дискретизации
